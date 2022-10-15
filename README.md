@@ -11,5 +11,5 @@
 ### - Observador posicionamento.
 
 <div align="center">
-<img src="" width=800px/>
+<img src="https://github.com/JoaoVNSouza/Encanamento3D_glut_LCG/blob/main/screenshot3D.png" width=800px/>
 </div>
