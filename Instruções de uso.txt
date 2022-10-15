@@ -1,0 +1,7 @@
+Para modificar a posição da câmera utilize o mouse:
+
+* Pressionar o botão esquerdo do mouse + movimento do mouse: gira a câmera pela cena criada.
+
+* Pressionar o botão direito do mouse + movimento do mouse: permite dar zoom na cena, transaladando a câmera pelo eixo z.
+
+* Pressionar o botão do meio no mouse + movimento do mouse: permite transaladar a câmera pelo eixo x ou y.
